@@ -28,13 +28,14 @@ El curso está basado en el libro homónimo escrito por la M. en C. Ana Irene Ra
 
 # Metodología de trabajo
 
-* Habrán tres sesiones presenciales a la semana lunes, miércoles y viernes. Las ayudantías serán el martes y jueves. Utilizaremos las siguientes plataformas en linea, como auxiliares.
-** Canal de Youtube https://www.youtube.com/c/CursosAugustoCabreraBecerril
-** De ser necesario, videoconferencia por jitsi-meet
-** Se utilizará Telegram como medio de comunicación directa con el grupo. La invitación se enviara por clasroom.
-** El material de consulta puede buscarse en el directorio de IceDrive: https://icedrive.net/s/kzCPG1zXWRak87hfYg7g1tyY4C64
-** Los anuncios, las asignaciones y trabajos finales se haran mediante la plataforma classroom. Una vez inscritos, inscribirse por favor en el clasroom https://classroom.google.com/c/NjQ0MjUzMzAyOTYz?cjc=7snsxkx
-** Los ejemplos, las notas y herramientas de computo se pueden consultar en: https://github.com/acb100cias/IGA_FC
+ Habrán tres sesiones presenciales a la semana lunes, miércoles y viernes. Las ayudantías serán el martes y jueves. Utilizaremos las siguientes plataformas en linea, como auxiliares.
+
+* Canal de Youtube https://www.youtube.com/c/CursosAugustoCabreraBecerril
+* De ser necesario, videoconferencia por jitsi-meet
+* Se utilizará Telegram como medio de comunicación directa con el grupo. La invitación se enviara por clasroom.
+* El material de consulta puede buscarse en el directorio de IceDrive: https://icedrive.net/s/kzCPG1zXWRak87hfYg7g1tyY4C64
+* Los anuncios, las asignaciones y trabajos finales se haran mediante la plataforma classroom. Una vez inscritos, inscribirse por favor en el clasroom https://classroom.google.com/c/NjQ0MjUzMzAyOTYz?cjc=7snsxkx
+* Los ejemplos, las notas y herramientas de computo se pueden consultar en: https://github.com/acb100cias/IGA_FC
 
 # Evaluación
 La evalucación del estudiante consistirá en:
