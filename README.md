@@ -1,5 +1,5 @@
 
-https://media.tenor.com/pk5cwuGWwd0AAAAC/torus.gif
+![](https://media.tenor.com/pk5cwuGWwd0AAAAC/torus.gif)
 
 El curso de Introducción a la Geometría Avanzada trata de ser un puente entre los cursos elementales de Geometría (Analítica I, Analítica II , Moderna I y Moderna II ), con cursos más avanzados como los de Geometría Diferencial y Geometría Algebráica. A lo largo del semestre abordaremos algunas facetas de la geometría desde el punto de vista kleiniano, es decir, poniendo énfasis en el estudio de la simetría como invarianza bajo grupos de transformaciones.
 
