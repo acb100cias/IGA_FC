@@ -9,12 +9,14 @@ Exploraremos algunas propiedades geométricas de objetos en el espacio real n-di
 
 El curso está basado en el libro homónimo escrito por la M. en C. Ana Irene Ramírez Galarza y el Dr. José Seade, publicado por Las Prensas de Ciencias. Además se tomarán algunos temas de libros de especialistas en el tema como Hilbert, Cohn-Vossen, Tabachnikov, Do Carmo, Novikov,Chebotarevsky, entre otros. No se tratará de revisar a fondo todo el material, en todo caso ofreceremos una breve introducción a algunos aspectos interesantes y bellos de la Geometría, y una iniciación al uso de sus métodos.
 
-Temario
-Simetría, Klein y Lie.
+# Temario
+* Simetría, Klein y Lie.
 Geometría Euclidiana. El grupo E(3) y sus invariantes.
 Geometría Afín y Proyectiva. Los grupos A(2) y P(2) y sus invariantes
 Geometría No-euclidiana. Geometría Elíptica e Hiperbólica, modelos de Poincaré
-Referencias
+
+# Referencias
+
 Introducción a la Geometría Avanzada. Ana Irene Ramírez Galarza - Jose Seade. Las Prensas deCiencias
 Transformation Groups for beginners. Duzhin-Tchebotarevsky. AMS
 Fundamental Concepts of Geometry. Bruce Menserve. Dover
@@ -23,7 +25,9 @@ Billiards and Geometry. Serge Tabachnikov. AMS
 Differential Geometry of Curves and Surfaces. M P DoCarmo.
 Curso de Geometría diferencial. Oscar Palmas- Guadalupe Reyes. Las Prensas de Ciencias
 Geometry and the imagination. Hilbert-Cohn Vosen
-Metodología de trabajo
+
+# Metodología de trabajo
+
 Habrán tres sesiones presenciales a la semana lunes, miércoles y viernes. Las ayudantías serán el martes y jueves. Utilizaremos las siguientes plataformas en linea, como auxiliares.
 Canal de Youtube https://www.youtube.com/c/CursosAugustoCabreraBecerril
 De ser necesario, videoconferencia por jitsi-meet
